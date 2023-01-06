@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, Python, ReactJS, TypeScript and Backend Frameworks!🤓**
 
-- 📫 How to reach me: Click the Beacon, it will guide You🪄  -   **[📍](https://www.linkedin.com/in/mrleecampbell/)**
+- 📫 How to reach me: Click the Beacon -  **[📍](https://www.linkedin.com/in/mrleecampbell/)**
 
 
 
