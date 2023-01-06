@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, Python, ReactJS, TypeScript and Backend Frameworks!🤓**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mrleecampbell/**
+- 📫 How to reach me **[📍](https://www.linkedin.com/in/mrleecampbell/)**
+
+
 
 - 💼 Working as a Trainee Software Engineer **At Fidelity Investments Ireland 📈**
 
