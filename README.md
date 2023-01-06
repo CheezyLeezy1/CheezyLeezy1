@@ -9,7 +9,6 @@
 
 - 💼 Working as a Trainee Software Engineer **At Fidelity Investments Ireland 📈**
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
