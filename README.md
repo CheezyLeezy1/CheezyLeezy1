@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cheezy/Leezy 🧀</h1>
 <h3 align="center">Student/Programmer from Ireland 🇮🇪</h3>
-
-<p align="center">- 🔭 I’m currently working on **completing my degree📜 and building out more projects!👷‍♂️**
+<p align="center">
+- 🔭 I’m currently working on **completing my degree📜 and building out more projects!👷‍♂️**
 
 - 🌱 I’m currently learning **Java, JavaScript, Python, ReactJS, TypeScript and Backend Frameworks!🤓**
 
