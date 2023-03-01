@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **completing my degree📜 and building out more projects!👷‍♂️**
 
-- 🌱 I’m currently learning **Java, JavaScript, Python, ReactJS, TypeScript and Backend Frameworks!🤓**
+- 🌱 I’m currently learning **Java, JavaScript, Python, ReactJS, TypeScript and AngularJS!🤓**
 
 - 📫 How to reach me: Click the Beacon -  **[📍](https://www.linkedin.com/in/mrleecampbell/)**
 
